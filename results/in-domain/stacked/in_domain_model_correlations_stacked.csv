@@ -1,0 +1,4 @@
+,corr,p-value
+bert_hatebert,0.725713,1.67E-141
+bert_fbert,0.69395,1.57E-124
+hatebert_fbert,0.759893,1.15E-162
